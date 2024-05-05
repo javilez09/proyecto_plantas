@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028414798492",
+    "project_id": "tiendavivero-871f0",
+    "storage_bucket": "tiendavivero-871f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028414798492:android:d69cfef3d03e1bbac00b59",
+        "android_client_info": {
+          "package_name": "com.example.aprendiendo_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZGRN0n2UN1l5JsCMqxihtPhA-sD3d1TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
